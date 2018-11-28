@@ -6,7 +6,7 @@ Note: Starting the week of December 2nd, 2018 we will resume hero discussions to
 
 [**Warhead Junction**](https://heroesofthestorm.com/static/images/battlegrounds/bg_warhead_junction.jpg)
 
-* **Battleground Release Date** [**(Link)**](http://nexuscompendium.com/battlegrounds.php): *Augest 26, 2016*
+* **Battleground Release Date** [**(Link)**](http://nexuscompendium.com/battlegrounds.php): *August 26, 2016*
 
 * **Warhead Junction Wiki Entries** *Wikia* [**(Link)**](http://heroesofthestorm.wikia.com/wiki/Warhead_Junction) *Gamepedia* [**(Link)**](https://heroesofthestorm.gamepedia.com/Warhead_Junction) *Liquipedia* [**(Link)**](https://liquipedia.net/heroes/Warhead_Junction)
 
