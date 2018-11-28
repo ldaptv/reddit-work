@@ -1,0 +1,40 @@
+# Battleground Discussion: Warhead Junction
+
+Welcome to the **Thursday Battleground Discussion**, where we feature battleground discussion for each the remainder of unranked play maps each Tuesday & Thursday.  
+
+Note: Starting the week of December 2nd, 2018 we will resume hero discussions to cover some reworks and the newest hero releases.
+
+[**Warhead Junction**](https://heroesofthestorm.com/static/images/battlegrounds/bg_warhead_junction.jpg)
+
+* **Battleground Release Date** [**(Link)**](http://nexuscompendium.com/battlegrounds.php): *Augest 26, 2016*
+
+* **Warhead Junction Wiki Entries** *Wikia* [**(Link)**](http://heroesofthestorm.wikia.com/wiki/Warhead_Junction) *Gamepedia* [**(Link)**](https://heroesofthestorm.gamepedia.com/Warhead_Junction) *Liquipedia* [**(Link)**](https://liquipedia.net/heroes/Warhead_Junction)
+
+* **Balance History** [**(Link)**](https://heroespatchnotes.com/battleground/warheadjunction.html)
+
+* **Warhead Junction Map Analysis w/Moonprayer** [**(Link)**](https://tempostorm.com/articles/warhead-junction-map-analysis-and-showmatch-breakdown)
+
+* **Math of the Storm Patch 32 Analysis w/ChaosOS** [**(Link)**](https://tempostorm.com/articles/math-of-the-storm-patch-320)
+
+* **Warhead Junction Spotlight Video**  [**(Link)**](https://www.youtube.com/watch?v=yb-NcGGuB3Q)
+
+* **Warhead Junction Deep Dive w/Nihilism Gaming** [**(Link)**](https://www.youtube.com/watch?v=qfQCUZIyy7Y&t=7s)
+
+Warhead Junction entered the Nexus in the Summer of 2016 and in May 2018 the boss mechanic was changed. It was not featured in the HGC in 2018.  You can find detailed battleground hero statistics on **Heroes Profile** [**(Link)**](https://www.heroesprofile.com/Global/Hero/?timeframe=10&role=All&hero=All&game_type=qm&map=Warhead%2BJunction&league_tier=all).
+  
+* What difficulty would you classify the battleground, and are there any specific features you based the classification on?  
+* Which heroes do you think have advantages on this battleground and why?
+* Which heroes do you think have a disadvantage on this battleground and why?
+* Do you enjoy playing this battleground?
+* Are there any "standard practices" specific to playing and winning on this map?
+* Is there anything you would change to improve the battleground?
+* Do you have any tips or tricks for playing this battleground?
+* Do you think the battleground is balanced or does it need a rework?
+* Do you think the 2019 Gameplay changes will have any major effect on this battleground; if so, how?
+* Do you think the map will appear in the HGC 2019 season?
+
+**Previous Hero & Battleground Discussions** [**(Link)**](https://www.reddit.com/r/heroesofthestorm/wiki/herodiscussions)  
+The sidebar for /r/Heroesofthestorm has a link to the HotS WIKI.
+
+**Please Upload Your Replays to HotsAPI.net & HotsLogs.com**  
+Uploading your replays to these sites provides better data for the HotS community to analyze and learn from. **Stats of the Storm** [**(Link)**](https://ebshimizu.github.io/stats-of-the-storm/) is a utility that works for both PC and Mac that allows you to view replay stats locally on your computer and automate uploading replays to both HotsAPI and HotsLogs.
