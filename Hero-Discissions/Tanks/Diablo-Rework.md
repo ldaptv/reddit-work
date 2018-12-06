@@ -14,8 +14,7 @@ Welcome to the **Tuesday Hero Discussion**, where we feature a rotating hero dis
 
 * **Diablo Rework Spotlight** [**(Link)**](https://www.youtube.com/watch?v=bURk4rqh-zU)
 
-
-* ** Diablo Analysis w/NotParadox** *Combos* [**(Link)**](https://www.youtube.com/watch?v=t9K-yW-OOpM) *Why the Pro's Play* [**(Link)**](https://www.youtube.com/watch?v=yskP2hEvPTc&t=792s)  
+* **Diablo Analysis w/NotParadox** *Combos* [**(Link)**](https://www.youtube.com/watch?v=t9K-yW-OOpM) *Why the Pro's Play* [**(Link)**](https://www.youtube.com/watch?v=yskP2hEvPTc&t=792s)  
 
 * **Diablo Tips & Tricks w/Kyle Fergusson** [**(Link)**](https://www.youtube.com/watch?v=P-bO8GovDu8)
 
