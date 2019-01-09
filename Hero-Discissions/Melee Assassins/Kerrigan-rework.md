@@ -2,7 +2,6 @@
   
 Welcome to the **Thursday Hero Discussion**, where we feature a rotating hero discussion every Tuesday & Thursday.  There was a [Kerrigan Hero Discussion](https://www.reddit.com/r/heroesofthestorm/comments/8p8xb3/hero_discussion_kerrigan/) on June 7, 2018.  On September 25th, 2018 Kerrigan was reworked and received several balance changes.  
 
-
 [**Kerrigan**](https://vignette.wikia.nocookie.net/heroesofthestorm/images/c/cc/Kerrigan_queen_of_blades_by_mr_jack.jpg/revision/latest/scale-to-width-down/350?cb=20180129120951) *Queen of Blades*
 
 **HotS Birthday & Cost** [**(Link)**](https://heroesofthestorm.gamepedia.com/List_of_heroes_by_release_date): *March 13, 2014 & 500 Gems / 4,000 Gold*
