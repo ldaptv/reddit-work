@@ -24,7 +24,7 @@ Welcome to the **Thursday Hero Discussion**, where we feature a rotating hero di
 
 * **Pro Plays Anub'arak w/Method** [**(Link)**](https://www.youtube.com/watch?v=i9AR26fFQgI) 
 
-* **Tempo Storm Anub'arak Guide w/Cattlepilar** [**(Link)**](https://www.youtube.com/watch?v=i9AR26fFQgI)  
+* **Tempo Storm Anub'arak Guide w/Cattlepilar** [**(Link)**](https://youtu.be/diCeyiO5tKI)  
   
 Anub'arak's popularity on the HotS ladder based on **Heroes.report** [**(Link)**](https://heroes.report/heroes/Anub'arak) and **HotsLogs** [**(Link)**](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Anub'arak) is around 32% with a win rate of about 55% over the past seven days.  
   
