@@ -1,6 +1,6 @@
 # Hero Discussion: Imperius  
 
-Welcome to the **Thursday Hero Discussion**, where we feature a rotating hero discussion every Thursday.  This week we feature the first hero released in 2019 Imperius.
+Welcome to the **Thursday Hero Discussion**, where we feature a rotating hero discussion every Thursday.  This week we feature Imperius, the first new hero released in 2019.
 
 [**Imperius**](https://vignette.wikia.nocookie.net/heroesofthestorm/images/b/ba/Imperius-HotS.jpg/revision/latest?cb=20181231074825) *Archangel of Valor*
 
@@ -24,12 +24,12 @@ Welcome to the **Thursday Hero Discussion**, where we feature a rotating hero di
 
 * **Imperius Analysis w/NotParadox** *Talent & Ability Review* [**(Link)**](https://www.youtube.com/watch?v=dnH9bBRfE1I&t=699s) *Gameplay Analysis* [**(Link)**](https://www.youtube.com/watch?v=IP86aXMC_HY) *Why the Pros Play* [**(Link)**](https://www.youtube.com/watch?v=kfETN99gC4s&t=255s)  
 
-Imperius released in the beginning of January 2019 and their current popularity on **Heroes.report** [**(Link)**](https://heroes.report/heroes/Imperius) and **HotsLogs** [**(Link)**](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Imperius) is at 24% with a win rate of about 49% over the past seven days.  
+Imperius released at the beginning of January 2019 and their current popularity on **Heroes.report** [**(Link)**](https://heroes.report/heroes/Imperius) and **HotsLogs** [**(Link)**](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Imperius) is at 24% with a win rate of about 49% over the past seven days.  
   
 * Imperius is classified as **Medium** difficulty to play, do you agree?
 * What strengths, weaknesses, and maps do you consider when drafting Imperius in ranked matches?
-* What heroes do you draft to counter a Imperius pick?
-* Are there any particular hero synergies to complement a Imperius pick?
+* What heroes do you draft to counter an Imperius pick?
+* Are there any particular hero synergies to complement an Imperius pick?
 * Is Imperius an early, mid or late-game hero, and where are the significant power spikes"
 * Is there a particular build you would recommend to someone wanting to learn the basics of Imperius?
 * Is there a high skill cap build you favor to optimize Imperius' performance and create flashy plays?
