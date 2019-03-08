@@ -1,4 +1,4 @@
-Hero Discussion: Kel'Thuzad
+# Hero Discussion: Kel'Thuzad
 
 Welcome to the **Thursday Hero Discussion** where we feature a rotating hero discussion every Thursday.  This week we feature Kel'Thuzad, the ranged assassin that is topping HotsLogs this week.  There was a [Kel'Thuzad Hero Discussion](https://www.reddit.com/r/heroesofthestorm/comments/97ru8d/hero_discussion_kelthuzad/) on August 16, 2018.  On August 22th, 2018 Kel'Thuzad recieved major balance changes as well as some additional balance tweaks on October 31st, 2018.  
   
