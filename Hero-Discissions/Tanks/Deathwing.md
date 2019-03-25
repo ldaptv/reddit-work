@@ -18,7 +18,7 @@ Deathwing is one of the most requested heroes for Heroes of the Storm and curren
   
 * What abilities and talents do you think would define Deathwing as a new hero? 
 * What strengths and weaknesses do you think should be consider when choosing a hero like Deathwing in ranked and unranked matches?
-* When do you prioritizing drafting Deathwing and on what maps?
+* When do you prioritize drafting Deathwing and on what maps?
 * What heroes do you draft to counter a Deathwing pick?
 * Are there any particular hero synergies to complement a Deathwing pick?
 * What role is Deathwing?
