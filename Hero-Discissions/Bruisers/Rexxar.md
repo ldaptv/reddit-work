@@ -1,6 +1,6 @@
 # Hero Discussion: Rexxar
   
-Welcome to the **Weekly Hero Discussion** where we feature a rotating hero discussion every week.  This week we feature Rexxar who recently was classified as a Bruiser in the new [Blizzard Roles system](https://heroesofthestorm.com/en-us/blog/22921910/hero-role-expansion-2019-3-18/). A balance change in February to Rexxars stats has resulted in the heroes win rate & popularity increasing on the HotS ladder.  There was a [Rexxar Hero Discussion](https://www.reddit.com/r/heroesofthestorm/comments/95a4sy/hero_discussion_rexxar/) on August 7th 2018.  
+Welcome to the **Weekly Hero Discussion** where we feature a rotating hero discussion every week.  This week we feature Rexxar who recently was classified as a Bruiser in the new [Blizzard Roles system](https://heroesofthestorm.com/en-us/blog/22921910/hero-role-expansion-2019-3-18/). A balance change in February to Rexxar's stats has resulted in the heroes win rate & popularity increasing on the HotS ladder.  There was a [Rexxar Hero Discussion](https://www.reddit.com/r/heroesofthestorm/comments/95a4sy/hero_discussion_rexxar/) on August 7th 2018.  
   
 [**Rexxar**](https://vignette.wikia.nocookie.net/heroesofthestorm/images/5/5e/Rexxar_champion_of_the_horde_by_mr_jack.jpg/revision/latest/scale-to-width-down/350?cb=20180129152412) *Champion of the Horde*
 
