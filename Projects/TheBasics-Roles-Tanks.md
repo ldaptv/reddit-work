@@ -2,9 +2,9 @@
 
 Welcome to the new **Weekly Basic's Discussion** where for the next few months there will feature a discussions about [Blizzard Roles system](https://heroesofthestorm.com/en-us/blog/22921910/hero-role-expansion-2019-3-18/).  These discussions are targeted at those looking to learn or brush up on a roles core principles, common practices, and mistakes to avoid.
   
-This week's discussion is on the tank role.  Blizzard defines tanks as "formidable juggernauts the protect their team by absorbing attacks from the enemy and blocking their retreat.  
+This week's discussion is on the **Tank Role** [**(Link)**](https://heroesofthestorm.gamepedia.com/Tank).  Blizzard defines tanks as "formidable juggernauts the protect their team by absorbing attacks from the enemy and blocking their retreat.  
   
-The New Player Guide wiki [**(Link)**](https://www.reddit.com/r/heroesofthestorm/wiki/newplayerguide#wiki_how_to_tank.2C_support_and_dps) features links to tanking articles. We plan to update the section with new content about the role rework at it develops and incorporate feedback from this discussion as well.
+The New Player Guide wiki [**(Link)**](https://www.reddit.com/r/heroesofthestorm/wiki/newplayerguide#wiki_how_to_tank.2C_support_and_dps) features links to tanking articles.  We plan to update the section with new content about the role rework at it develops and incorporate feedback from this discussion as well.  The following are highlights from the section as well as some more recent content about tanking:
   
 * **The Art of Tank by */u/CavalierGuest*** - [**(Link)**](https://docs.google.com/document/d/1efiJPDPIvUez4tD0B1mfp9Kq9d-sLhvh6aPB5O045M0/edit) - Defines tanking as four practices:
 
@@ -34,6 +34,7 @@ Discussion:
 * Do you have any principles or practice you follow when playing a tank in HotS?
 * What common mistakes do you typically encounter with tanks in your games & how do you work around them?
 * What is holding you back from playing as a Tank?
-* Do you think the heroes identified in HotS as Tanks are accurate or do some of those heroes need reworks/redesign to fit the role of tank?
+* Do you think the heroes identified in HotS as Tanks are accurate or do some of those heroes need reworks/redesign to fit the role of tank?  
+* Do you have any guides or highlights to share that helped you understand or learn how to tank?
 
 Please share any questions or opinions you have about the role rework.
