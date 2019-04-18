@@ -1,6 +1,6 @@
 # The Basics - Roles: Tanks & Tanking
 
-Welcome to the **Weekly Basic's Discussion** where for the next few months there will feature a discussions about [Blizzard Roles system](https://heroesofthestorm.com/en-us/blog/22921910/hero-role-expansion-2019-3-18/).  These discussions are targeted at those looking to learn or brush up on a roles core principles, common practices, and mistakes to avoid.
+Welcome to the **Weekly Basic's Discussion** where for the next few months there will be feature discussions about [Blizzard Roles system](https://heroesofthestorm.com/en-us/blog/22921910/hero-role-expansion-2019-3-18/).  These discussions are targeted at those looking to learn or brush up on a roles core principles, common practices, and mistakes to avoid.
   
 Last week's **Tank Role Discussion** [**(Link)**](https://www.reddit.com/r/heroesofthestorm/comments/bb5x8f/the_basics_roles_tanking/) outlined the core tanking practices, types of tanks, and tank synergies in Heroes of the Storm.  This week's discussion will close out the topic of tanking with a deep dive reviewing articles about vision, engaging, and shotcalling.
   
@@ -21,7 +21,7 @@ Last week's **Tank Role Discussion** [**(Link)**](https://www.reddit.com/r/heroe
 
 * **Education Lounge:Shotcalling with */u/michaeludall /u/CavalierGuest & Heartless*** - [**(Link)**](https://heroeslounge.gg/blog/post/educational-lounge-shotcalling-writeup) - The culmination of all the tanking practices is to make sense of a chaotic environment and create  opportunities to lead through keeping these shotcalling tips in mind:  
 
-  * **Shotcalling** - There are different styles based on the social situation & team structure.
+  * **Shotcalling** - There are different styles based on the social situation & team structure try to determine which style before the match.
   * **Trust** - It is important to trust the shotcaller even if you disagree, review the call afterwards if needed.
   * **Communication** - Be positive, complement good plays, avoid giving negative feedback during the game, and make good use of Alt+Ping commands.
   * **Step up if no one is going to** - Shotcalling can make a difference, if no one is doing it and you know what to do, give it a try.  
@@ -39,7 +39,7 @@ Discussion:
 * What type of engagements do you favor as a tank or player?
 * Do you think Storm League or the ranks in the league favors certain types of engagements?
 * Do you value shotcalling in your matches and if no one is shotcalling do you step up?
-* Do you have any tips for shotcalling that your find work pretty well?
+* Do you have any tips for shotcalling that your find work well?
 
 Please share any questions or opinions you have about tanking with regards to using vision, engaging, or shotcalling.
 
