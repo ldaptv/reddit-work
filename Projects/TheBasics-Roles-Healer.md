@@ -2,7 +2,7 @@
 
 Welcome to the **Weekly Basic's Discussion** where this week we will feature a discussion about the role [Healer](https://www.youtube.com/watch?v=VRZmNMO5V1Q) that was defined in the new [Blizzard Roles system](https://heroesofthestorm.com/en-us/blog/22921910/hero-role-expansion-2019-3-18/).  These discussions are targeted at those looking to learn or brush up on a roles core principles, common practices, and mistakes to avoid.
   
-The **Healer Role** [**(Link)**](https://heroesofthestorm.gamepedia.com/healer) is defined in the new role system as heroes that focus primarily on direct healing and damage mitigation.  Prior to the rework, healers were identified as "Supports" and as a result a number of articles that are referenced might refer to the role as support.
+The **Healer Role** [**(Link)**](https://heroesofthestorm.gamepedia.com/healer) in the new role system are heroes that focus primarily on direct healing and damage mitigation.  Prior to the rework, healers were identified as "Supports" and as a result a number of articles that are referenced might refer to the role as support.
   
 * **The Healer's Handbook by *u/ZeroMax1** - [**(Link)**](https://docs.google.com/document/d/145joZjb9bhyInwGMFKbGFeB6A5-uYRxVjQDO6eK8Nsg/edit) - Defines healing as four practices:
 
@@ -11,7 +11,7 @@ The **Healer Role** [**(Link)**](https://heroesofthestorm.gamepedia.com/healer) 
   * **Managing Resources** - It is important for healers to manage their mana and cooldowns and use them only when appropriate.
   * **Executing Saves** - Many healers have abilities that can save a teammate from immediate death through skillful execution.  
 
-* **Healing Videos*** - Illustrating the healing practices:
+* **Healing Videos** - Illustrating the healing practices:
 
   * **HotS Healer Guide by *Lord Jaraxxus** - [**(Link)**](https://www.youtube.com/watch?v=QqSN-fgF9xE)  
   * **Positioning Guide w/Nubkeks** - [**(Link)**](https://www.youtube.com/watch?v=DER26PYa558) 
